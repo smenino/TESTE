@@ -1,0 +1,7 @@
+<tv generator-info-name="club" generator-info-url="http://srvx.io:80/">
+<channel id="AMC">
+<display-name>AMC FHD [H265]</display-name>
+<icon src="http://a5.vc/Xun"/>
+    <channel update="i" site="lineup.net.br" site_id="334752" />
+</channel>
+</tv>
